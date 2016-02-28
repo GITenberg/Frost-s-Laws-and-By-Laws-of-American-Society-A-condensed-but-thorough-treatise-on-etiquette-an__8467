@@ -1,0 +1,27 @@
+_repo: Frost-s-Laws-and-By-Laws-of-American-Society-A-condensed-but-thorough-treatise-on-etiquette-an__8467
+creator:
+  author:
+    agent_name: Frost, S. Annie (Sarah Annie)
+    aliases:
+    - Frost, S. A. (Sarah Annie)
+    - Shields, Sarah Annie Frost
+    - Frost, Sarah Annie
+    gutenberg_agent_id: '2763'
+    url: http://www.gutenberg.org/2009/agents/2763
+description: ''
+gutenberg_bookshelf: Reference
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8467'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Etiquette -- United States'
+title: "Frost's Laws and By-Laws of American Society\r\nA condensed but thorough treatise\
+  \ on etiquette and its usages in America, containing plain and reliable directions\
+  \ for deportment in every situation in life."
+url: http://www.gutenberg.org/ebooks/8467
