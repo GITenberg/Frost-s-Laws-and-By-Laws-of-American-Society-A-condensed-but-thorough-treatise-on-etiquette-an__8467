@@ -1,4 +1,8 @@
 _repo: Frost-s-Laws-and-By-Laws-of-American-Society-A-condensed-but-thorough-treatise-on-etiquette-an__8467
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Frost, S. Annie (Sarah Annie)
@@ -9,6 +13,8 @@ creator:
     gutenberg_agent_id: '2763'
     url: http://www.gutenberg.org/2009/agents/2763
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8467#Frost-s-Laws-and-By-Laws-of-American-Society-A-condensed-but-thorough-treatise-on-etiquette-an_
 gutenberg_bookshelf: Reference
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
